@@ -1,0 +1,13 @@
+Bdata: 原始数据文件夹
+data : 预处理后得到的中间数据文件
+data1: 在程序运行过程中所产生的数据文件,以及模型
+data2: 结果数据
+
+
+file.py 原始数据读取文件
+Kmeans++.py kmeans算法模型
+type.py  实现分类的文件
+user_item.py  基于问题一的基于内容的协同过滤算法的实现
+user_user_item.py  基于问题二的基于用户的协同过滤算法的实现
+
+
