@@ -7,9 +7,9 @@
 #### [type.py: 实现分类的文件](https://github.com/King-Key/RecommendationAlgorithm-/blob/master/type.py)
 
 
-#### [user_item.py:基于问题一的基于内容的协同过滤算法的实现](https://github.com/King-Key/RecommendationAlgorithm-/blob/master/user_item.py)
+#### [user_item.py:基于内容的协同过滤算法的实现](https://github.com/King-Key/RecommendationAlgorithm-/blob/master/user_item.py)
 
 
-#### [user_user_item.py:基于问题二的基于用户的协同过滤算法的实现](https://github.com/King-Key/RecommendationAlgorithm-/blob/master/user_user_item.py)
+#### [user_user_item.py:基于用户的协同过滤算法的实现](https://github.com/King-Key/RecommendationAlgorithm-/blob/master/user_user_item.py)
 
 
